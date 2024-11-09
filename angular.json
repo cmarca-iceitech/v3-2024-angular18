@@ -89,8 +89,13 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e5ea5066-7f83-49eb-b050-420d2cd952b1"
   }
 }
